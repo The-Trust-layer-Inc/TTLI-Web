@@ -548,6 +548,11 @@ section {
         gap: 3rem;
     }
 
+    .initiative-image {
+        padding-top: 0;
+        margin-top: 2rem;
+    }
+
     .initiative-text h2 {
         font-size: 2rem;
     }
