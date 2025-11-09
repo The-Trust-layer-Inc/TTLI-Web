@@ -608,6 +608,12 @@ p.spaced-points-large {
     align-items: center;
 }
 
+.footer-links {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+}
+
 .footer-link {
     font-size: 0.875rem;
     color: var(--text-muted);
