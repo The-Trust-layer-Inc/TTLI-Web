@@ -23,6 +23,36 @@ const blogPosts = [
         readTime: "3 minute read",
         slug: "fake-users-real-damage-platform-losses",
         link: "https://medium.com/@gokulnair-2001/be7846d0f055"
+    },
+    {
+        id: 3,
+        title: "The Rise of Bots, Device Farms & Micro-Fraud Rings — What’s Fueling the Surge?",
+        description: "Fraud on digital platforms has entered a new era.What used to be simple, low-effort attempts like basic bots, repeated signups, or obvious spam is now an industrialized, global ecosystem powered by automation, cheap devices, and coordinated fraud operations.",
+        image: "./Assets/Blog/blog_3.png",
+        date: "Nov 19, 2025",
+        readTime: "4 minute read",
+        slug: "rise-of-bots-device-farms-micro-fraud-rings",
+        link: "https://medium.com/@gokulnair-2001/the-rise-of-bots-device-farms-micro-fraud-rings-whats-fueling-the-surge-996d4a57355d"
+    },
+    {
+        id: 4,
+        title: "Why Fraud Today Is Harder to Detect Than Ever ?",
+        description: "Modern digital fraud isn’t just increasing, it’s becoming systematically harder to detect. Not because platforms lack intelligence or effort, but because fraud has evolved far beyond the capabilities of traditional tools and fragmented trust systems.",
+        image: "./Assets/Blog/blog_4.png",
+        date: "Nov 20, 2025",
+        readTime: "3 minute read",
+        slug: "why-fraud-today-is-harder-to-detect-than-ever",
+        link: "https://medium.com/@gokulnair-2001/why-fraud-today-is-harder-to-detect-than-ever-4a46bc8d6b60"
+    },
+     {
+        id: 5,
+        title: "The Hidden Cost of Trust Problems — User Loss, Bad Recommendations & Stunted Growth",
+        description: "Fraud and low trust don’t just cause direct financial losses. They silently distort the very systems that power growth from data models to user experience.",
+        image: "./Assets/Blog/blog_5.png",
+        date: "Nov 21, 2025",
+        readTime: "3 minute read",
+        slug: "the-hidden-cost-of-trust-problems-user-loss-bad-recommendations-stunted-growth",
+        link: "https://medium.com/@gokulnair-2001/the-hidden-cost-of-trust-problems-user-loss-bad-recommendations-stunted-growth-7aec88b54b1b"
     }
 ];
 
